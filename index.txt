@@ -1,4 +1,4 @@
-echo "Helow"
+echo "GOODBUY"
 Helow master
 Hellow new_f2
 Hellow master
