@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SunopsisExport>
+<Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="5HRIbOIF0yEaqp1wUKUCcQ==" exportKeySalt="814f4d3e-de2e-4ff8-8458-0f36831b91b6" containsCipherText="false"/>
+<Object class="com.sunopsis.dwg.dbobj.SnpFolder">
+		<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-01-29 16:10:58.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="FolderName" type="java.lang.String"><![CDATA[01 - Initial Load Examples]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[c9379174-e9a6-4671-b14a-b1fe48801219]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
+	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-01-29 16:10:58.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ParIFolder" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
+	<Field name="ReleaseTag" type="java.lang.String">null</Field>
+	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpFolder]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Oracle Control Append (read ODI Package documentation)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[d6071e2f-d20b-4a20-88be-6706f42c5ef7]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[76391ed77ef82b579a8f052014d3224adce876e0]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[IKM_Oracle_Control_Append__read_ODI_Package_documentation_/FOLD_IKM_Oracle_Control_Append__read_ODI_Package_documentation_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpFolder]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Oracle Partition Exchange Load (read ODI Package documentation)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[b670d361-6431-48b7-9858-63dee9e19800]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[a4499b48723667d9fd42b51265bd55f0ef9d93c8]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[IKM_Oracle_Partition_Exchange_Load__read_ODI_Package_documentation_/FOLD_IKM_Oracle_Partition_Exchange_Load__read_ODI_Package_documentation_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpFolder]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Other Partition Exchange Examples (read ODI Package documentation)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3e0efbf5-8d57-4b72-b950-648f9d5316b6]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[a4c556599bdf954236031c7488d83ae5c795c345]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Other_Partition_Exchange_Examples__read_ODI_Package_documentation_/FOLD_Other_Partition_Exchange_Examples__read_ODI_Package_documentation_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Disable Orders Fact Constraints]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[99db53e0-72c2-4de1-a310-8a269a748805]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[7e4bdbd3f1e5ba6452a862ca7be72f9898f3c736]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Procedures/TRT_Disable_Orders_Fact_Constraints.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Enable Orders Fact Constraints]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[fd11a1d7-1e6c-4b89-94ba-c4a634dbb49e]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[7e4bdbd3f1e5ba6452a862ca7be72f9898f3c736]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Procedures/TRT_Enable_Orders_Fact_Constraints.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Truncate Orders Fact Table]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[03d5ee2c-33ac-4787-8793-f10126a3e494]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[7e4bdbd3f1e5ba6452a862ca7be72f9898f3c736]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Procedures/TRT_Truncate_Orders_Fact_Table.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Alter Orders Fact to Nologging]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[a89976f8-b03f-4bc5-93c7-74a16fca913e]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[7e4bdbd3f1e5ba6452a862ca7be72f9898f3c736]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Procedures/TRT_Alter_Orders_Fact_to_Nologging.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Alter Orders Fact to Logging]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[f4de30cb-bf53-4675-a842-98b352a0d67e]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[7e4bdbd3f1e5ba6452a862ca7be72f9898f3c736]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Procedures/TRT_Alter_Orders_Fact_to_Logging.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Create All Indexes for Orders Fact]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[db6d5a08-4350-4710-993a-b3295b6e9329]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[7e4bdbd3f1e5ba6452a862ca7be72f9898f3c736]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Procedures/TRT_Create_All_Indexes_for_Orders_Fact.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Drop All Indexes on Orders Fact]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[943ebed8-bd6b-46fb-99c8-c63064428112]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[7e4bdbd3f1e5ba6452a862ca7be72f9898f3c736]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Procedures/TRT_Drop_All_Indexes_on_Orders_Fact.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpMapping]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[Y]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Warehouse.Facts.OrdersDataSet]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[68de1c7a-5e53-4222-b019-7ae4f1c665d4]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[7e4bdbd3f1e5ba6452a862ca7be72f9898f3c736]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Reusable Mappings/REUMAP_Warehouse_Facts_OrdersDataSet.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_PROJECT.3]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[470ac871-4352-46be-812e-948e6b7b5872]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Oracle Partition Exchange Load Demo v2.0]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[40]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_FOLDER.7]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[28379994-8910-4432-ad33-64e2b4ff6e16]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Oracle Partition Exchange Load Demo v2.0.Facts]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_FOLDER]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[40.5]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[12.2.1]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.07]]></Field>
+</Object>
+</SunopsisExport>
