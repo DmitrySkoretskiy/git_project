@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="KKePH2pMIumVbohPnGgHew==" exportKeySalt="7ca30a07-8327-41fe-bdb7-4a7edd1d0f56" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="HedDlG8dXV+yFXYOkhzqQQ==" exportKeySalt="a34ea3ed-733a-43c0-a0e8-a3e7b04ce158" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpPackage">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:26:24.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[cf44d58f-c867-4907-87a7-b06e8d5dd1d9]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
 	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[91]]></Field>
 	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[114]]></Field>
 	<Field name="IScBasePackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -16,7 +16,7 @@
 	<Field name="IScPackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtPack" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:28:24.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="PackName" type="java.lang.String"><![CDATA[CONNECTION_in_Loop_Maping+Query]]></Field>
@@ -42,7 +42,7 @@
 	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
 	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -65,7 +65,7 @@
 	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:28:24.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LockJrn" type="java.lang.String">null</Field>
 	<Field name="ModCod" type="java.lang.String">null</Field>
@@ -112,7 +112,7 @@
 	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
 	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -135,7 +135,7 @@
 	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:28:24.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LockJrn" type="java.lang.String">null</Field>
 	<Field name="ModCod" type="java.lang.String">null</Field>
@@ -182,7 +182,7 @@
 	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
 	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -205,7 +205,7 @@
 	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:28:24.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LockJrn" type="java.lang.String">null</Field>
 	<Field name="ModCod" type="java.lang.String">null</Field>
@@ -252,7 +252,7 @@
 	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
 	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -275,14 +275,14 @@
 	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:28:24.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LockJrn" type="java.lang.String">null</Field>
 	<Field name="ModCod" type="java.lang.String">null</Field>
 	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="OkExit" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="OkExitCode" type="java.lang.String"><![CDATA[0]]></Field>
-	<Field name="OkNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[328]]></Field>
+	<Field name="OkNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[329]]></Field>
 	<Field name="PosX" type="com.sunopsis.sql.DbInt"><![CDATA[383]]></Field>
 	<Field name="PosY" type="com.sunopsis.sql.DbInt"><![CDATA[41]]></Field>
 	<Field name="PurgeJrn" type="java.lang.String">null</Field>
@@ -316,13 +316,90 @@
 	<Field name="DropSubscriber" type="java.lang.String">null</Field>
 	<Field name="ExtendJrn" type="java.lang.String">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3e8dee67-c45f-4788-9ec9-7f726023c9a6]]></Field>
+	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[86]]></Field>
+	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[54]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[114]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IStep" type="com.sunopsis.sql.DbInt"><![CDATA[329]]></Field>
+	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtAction" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtSubscribers" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtVarValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IVar" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KoExit" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="KoExitCode" type="java.lang.String">null</Field>
+	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="LockJrn" type="java.lang.String">null</Field>
+	<Field name="ModCod" type="java.lang.String">null</Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="OkExit" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="OkExitCode" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="OkNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[328]]></Field>
+	<Field name="PosX" type="com.sunopsis.sql.DbInt"><![CDATA[575]]></Field>
+	<Field name="PosY" type="com.sunopsis.sql.DbInt"><![CDATA[69]]></Field>
+	<Field name="PurgeJrn" type="java.lang.String">null</Field>
+	<Field name="RecurseSubmod" type="java.lang.String">null</Field>
+	<Field name="SetInstallJrn" type="java.lang.String">null</Field>
+	<Field name="SetUninstallJrn" type="java.lang.String">null</Field>
+	<Field name="SmodCod" type="java.lang.String">null</Field>
+	<Field name="StepName" type="java.lang.String"><![CDATA[New_Mapping+Query]]></Field>
+	<Field name="StepType" type="java.lang.String"><![CDATA[M]]></Field>
+	<Field name="TableName" type="java.lang.String">null</Field>
+	<Field name="UnlockJrn" type="java.lang.String">null</Field>
+	<Field name="VarIncr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="VarOp" type="java.lang.String">null</Field>
+	<Field name="WidthVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[10400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[86]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[54#Physical]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_MAPPING : New_Mapping+Query #SNP_MAPREF : null #SNP_DEPLOYSPEC : Physical]]></Field>
+ <Field name="GlobalId" type="java.lang.String"><![CDATA[520bfa06-81f6-4d83-9852-7844b75692f3]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[9700]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[54]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[New_Mapping+Query#91#N]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_MAPPING : New_Mapping+Query]]></Field>
+ <Field name="GlobalId" type="java.lang.String"><![CDATA[d6c739aa-25bc-406c-98aa-9b497897df03]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpStep">
+		<Field name="BrpId" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Clean" type="java.lang.String">null</Field>
+	<Field name="ContextCode" type="java.lang.String">null</Field>
+	<Field name="CreateJournal" type="java.lang.String">null</Field>
+	<Field name="CreateSubcriber" type="java.lang.String">null</Field>
+	<Field name="DeleteErrors" type="java.lang.String">null</Field>
+	<Field name="DropJournal" type="java.lang.String">null</Field>
+	<Field name="DropSubscriber" type="java.lang.String">null</Field>
+	<Field name="ExtendJrn" type="java.lang.String">null</Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:28:24.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[705edcff-51d3-4a67-b0a8-e78600cf525e]]></Field>
 	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
 	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[86]]></Field>
 	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[54]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -345,11 +422,11 @@
 	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:28:24.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LockJrn" type="java.lang.String">null</Field>
 	<Field name="ModCod" type="java.lang.String">null</Field>
-	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
 	<Field name="OkExit" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="OkExitCode" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="OkNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[327]]></Field>
@@ -399,7 +476,7 @@
 	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndLogMethod" type="java.lang.String"><![CDATA[Y]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IDeploySpec" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMapping" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -422,11 +499,11 @@
 	<Field name="KoNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetry" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="KoRetryInterv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-26 14:28:24.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-02-27 09:57:58.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LockJrn" type="java.lang.String">null</Field>
 	<Field name="ModCod" type="java.lang.String">null</Field>
-	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
+	<Field name="Nno" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
 	<Field name="OkExit" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="OkExitCode" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="OkNextStep" type="com.sunopsis.sql.DbInt"><![CDATA[322]]></Field>
@@ -533,18 +610,18 @@
  <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[1.10]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_STEP.328]]></Field>
-	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[705edcff-51d3-4a67-b0a8-e78600cf525e]]></Field>
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_STEP.329]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[3e8dee67-c45f-4788-9ec9-7f726023c9a6]]></Field>
  <Field name="RefObjFQName" type="java.lang.String"><![CDATA[U.Test_MultiConnect.CONNECTION_in_Loop_Maping+Query.New_Mapping+Query]]></Field>
  <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_FOLDER.SNP_PACKAGE.SNP_STEP]]></Field>
  <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[1.17.31.17]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
-		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_STEP.327]]></Field>
-	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[fdc0af25-6fbe-45d0-b19f-3212877fc8c4]]></Field>
- <Field name="RefObjFQName" type="java.lang.String"><![CDATA[U.Test_MultiConnect.CONNECTION_in_Loop_Maping+Query.ID_loop]]></Field>
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_STEP.328]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[705edcff-51d3-4a67-b0a8-e78600cf525e]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[U.Test_MultiConnect.CONNECTION_in_Loop_Maping+Query.New_Mapping+Query]]></Field>
  <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_FOLDER.SNP_PACKAGE.SNP_STEP]]></Field>
- <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[1.17.31.7]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[1.17.31.17]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
 		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_MAPPING.54]]></Field>
@@ -559,6 +636,13 @@
  <Field name="RefObjFQName" type="java.lang.String"><![CDATA[U.Test_MultiConnect.New_Mapping+Query.Physical]]></Field>
  <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_FOLDER.SNP_MAPPING.SNP_DEPLOYSPEC]]></Field>
  <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[1.17.17.8]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_STEP.327]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[fdc0af25-6fbe-45d0-b19f-3212877fc8c4]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[U.Test_MultiConnect.CONNECTION_in_Loop_Maping+Query.ID_loop]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_PROJECT.SNP_FOLDER.SNP_PACKAGE.SNP_STEP]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[1.17.31.7]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
 		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_VAR.64]]></Field>
@@ -594,7 +678,7 @@
 	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
-	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
